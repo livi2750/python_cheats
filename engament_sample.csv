@@ -1,0 +1,21 @@
+user_id,gender,age,location,likes,comments,shares,clicks,views,time_spent,device,referral_source,followers,top_comment
+1,Female,25-34,,100,20,10,50,500,30,Mobile,Instagram,1000,Awesome stuff!
+2,Male,35-44,Los @angeles,200,30,15,100,1000,45,Desktop,Google,2000,Interesting post! I enjoyed reading it.
+3,Female,18-24,Chicago,50,10,5,20,200,20,Mobile,Facebook,500,Very informative.
+4,Male,45-54,San ,150,25,12,80,800,40,Desktop,Direct,1500,This is terrible.
+5,,25-34,Houston,80,15,8,40,400,25,Mobile,Twitter,800,Really bad!
+6,Male,35-44,Boston,120,20,10,60,600,35,Desktop,Google,1200,Very informative.
+7,,18-24,Miami,70,12,6,30,300,22,Mobile,Instagram,700,Interesting post! I enjoyed reading it.
+8,Male,45-54,,180,28,14,90,900,42,Desktop,Facebook,1800,Love this!
+9,Female,25-34,d@llas,90,18,9,45,450,28,Mobile,Direct,900,This is terrible.
+10,Male,35-44,Philadelphia,130,22,11,70,700,38,Desktop,Twitter,1300,This is bad.
+11,,18-24,Atlanta,60,11,6,25,250,23,Mobile,Instagram,600,Love this!
+12,Male,45-54,Phoenix,170,27,13,85,850,41,Desktop,Google,1700,Excellent content!
+13,Female,25-34,Detroit,110,19,10,55,550,32,Mobile,Facebook,1100,Interesting post! I enjoyed reading it.
+14,Male,35-44,Denver,140,23,11,75,750,39,Desktop,Direct,1400,Interesting post! I enjoyed reading it.
+15,Female,18-24,,75,13,7,35,350,26,Mobile,Twitter,750,Brilliant!
+16,Male,45-54,Minneapolis,190,29,15,95,950,43,Desktop,Instagram,1900,Really informative!
+15,Female,18-24,,75,13,7,35,350,26,Mobile,Twitter,750,Excellent content!
+16,Male,45-54,Minneapolis,190,29,15,95,950,43,Desktop,Instagram,1900,Excellent content!
+
+
