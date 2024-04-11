@@ -1,0 +1,55 @@
+Date,Campaign_ID,Campaign_Name,Creative_ID,Creative_Type,Targeting_Age,Targeting_Gender,Targeting_Location,Impressions,Clicks,Conversions,Cost,Platform_Name,Page_Section,Ad_Position,Time_Spent,Video_Views,Bounce_Rate
+2024-04-01,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,50000,2500,150,5000.00,FashionMagazine.com,Homepage,Top Banner,30s,1000,20%
+2024-04-01,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,30000,1500,100,7500.00,BeautyBlog.com,Article,In-content,45s,1500,15%
+2024-04-01,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,40000,2000,120,6000.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-01,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,45000,2200,130,5500.00,FashionMagazine.com,Category,Side Banner,25s,800,25%
+2024-04-01,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,35000,1800,90,7000.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1800,20%
+2024-04-01,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,38000,1900,110,5700.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-02,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,52000,2600,160,5200.00,FashionMagazine.com,Homepage,Top Banner,30s,1200,20%
+2024-04-02,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,32000,1600,110,7700.00,BeautyBlog.com,Article,In-content,45s,1600,15%
+2024-04-02,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,42000,2200,130,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-02,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,47000,2400,140,5800.00,FashionMagazine.com,Category,Side Banner,25s,900,25%
+2024-04-02,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,37000,1900,100,7200.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1900,20%
+2024-04-02,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,40000,2000,120,6000.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-03,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,51000,2550,155,5150.00,FashionMagazine.com,Homepage,Top Banner,30s,1100,20%
+2024-04-03,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,31000,1550,105,7850.00,BeautyBlog.com,Article,In-content,45s,1550,15%
+2024-04-03,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,41000,2050,125,6100.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-03,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,46000,2300,135,5700.00,FashionMagazine.com,Category,Side Banner,25s,850,25%
+2024-04-03,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,36000,1850,95,7400.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1850,20%
+2024-04-03,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,39000,1950,115,5900.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-04,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,53000,2650,165,5300.00,FashionMagazine.com,Homepage,Top Banner,30s,1300,20%
+2024-04-04,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,33000,1650,115,8000.00,BeautyBlog.com,Article,In-content,45s,1650,15%
+2024-04-04,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,43000,2150,135,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-04,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,48000,2400,140,5900.00,FashionMagazine.com,Category,Side Banner,25s,900,25%
+2024-04-04,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,38000,1950,105,7600.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1950,20%
+2024-04-04,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,41000,2050,125,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-05,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,52000,2600,160,5400.00,FashionMagazine.com,Homepage,Top Banner,30s,1200,20%
+2024-04-05,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,32000,1600,110,7800.00,BeautyBlog.com,Article,In-content,45s,1600,15%
+2024-04-05,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,42000,2100,130,6100.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-05,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,47000,2350,140,5800.00,FashionMagazine.com,Category,Side Banner,25s,850,25%
+2024-04-05,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,37000,1850,100,7400.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1850,20%
+2024-04-05,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,40000,2000,120,6000.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-06,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,53000,2650,165,5300.00,FashionMagazine.com,Homepage,Top Banner,30s,1300,20%
+2024-04-06,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,33000,1650,115,7900.00,BeautyBlog.com,Article,In-content,45s,1650,15%
+2024-04-06,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,43000,2150,135,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-06,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,48000,2400,140,5900.00,FashionMagazine.com,Category,Side Banner,25s,900,25%
+2024-04-06,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,38000,1950,105,7600.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1950,20%
+2024-04-06,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,41000,2050,125,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-07,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,52000,2600,160,5400.00,FashionMagazine.com,Homepage,Top Banner,30s,1200,20%
+2024-04-07,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,32000,1600,110,7800.00,BeautyBlog.com,Article,In-content,45s,1600,15%
+2024-04-07,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,42000,2100,130,6100.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-07,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,47000,2350,140,5800.00,FashionMagazine.com,Category,Side Banner,25s,850,25%
+2024-04-07,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,37000,1850,100,7400.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1850,20%
+2024-04-07,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,40000,2000,120,6000.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-08,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,53000,2650,165,5300.00,FashionMagazine.com,Homepage,Top Banner,30s,1300,20%
+2024-04-08,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,33000,1650,115,7900.00,BeautyBlog.com,Article,In-content,45s,1650,15%
+2024-04-08,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,43000,2150,135,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-08,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,48000,2400,140,5900.00,FashionMagazine.com,Category,Side Banner,25s,900,25%
+2024-04-08,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,38000,1950,105,7600.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1950,20%
+2024-04-08,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,41000,2050,125,6200.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
+2024-04-09,1,Spring Sale 2024,101,Banner Ad,25-45,Male,Fashion District,52000,2600,160,5400.00,FashionMagazine.com,Homepage,Top Banner,30s,1200,20%
+2024-04-09,1,Spring Sale 2024,102,Video Ad,25-45,Female,Beauty District,32000,1600,110,7800.00,BeautyBlog.com,Article,In-content,45s,1600,15%
+2024-04-09,1,Spring Sale 2024,103,Carousel Ad,18-55,All,Various Cities,42000,2100,130,6100.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,30%
+2024-04-09,2,Summer Collection 2024,201,Banner Ad,18-35,Female,Beach Cities,47000,2350,140,5800.00,FashionMagazine.com,Category,Side Banner,25s,850,25%
+2024-04-09,2,Summer Collection 2024,202,Video Ad,18-35,All,Coastal Areas,37000,1850,100,7400.00,FashionWebsite.com,Homepage,Below-the-fold,60s,1850,20%
+2024-04-09,2,Summer Collection 2024,203,Carousel Ad,18-45,All,Various Cities,40000,2000,120,6000.00,SocialMediaPlatform,Feed,Scrolling,NA,NA,28%
